@@ -2,8 +2,7 @@
 
 My name pronounced "[jengiz](https://translate.google.com/#en/tr/jengiz)" the "C" sounds like "J"
 
-![SuperCSharper](images/super-c-sharper.png)
-
+![super-c-sharper](https://github.com/user-attachments/assets/f171cf2d-9b6b-48a5-8e7a-32fd19f3711d)
 
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cilerler&repo=ruya&theme=dracula)-->
 <!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cilerler)-->
