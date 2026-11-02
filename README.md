@@ -11,6 +11,4 @@
 
 ### 🧰 Free tools
 
-I built everyday tools that are free for everyone, most of them made with developers in mind. They run in your browser.
-
-Feel free to check them out at **[cengiz.ilerler.info/tools](https://cengiz.ilerler.info/tools/)**
+I built everyday tools that are free for everyone, most of them made with developers in mind. They run in your browser. Feel free to check them out at **[cengiz.ilerler.info/tools](https://cengiz.ilerler.info/tools/)**
